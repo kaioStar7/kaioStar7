@@ -1,40 +1,359 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,45:180000,100:d90429&height=220&section=header&text=KAIO&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%2F%20SECURITY%20%2F%20BACKEND%20%2F%20GAMES&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:160000,70:8b0000,100:ff1744&height=230&section=header&text=KAIO&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%2F%20SECURITY%20%2F%20BACKEND%20%2F%20GAMES&descAlignY=62&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=FF1744&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+BOOTING...+%5D;%3E+Hello%2C+I'm+Kaio+%F0%9F%91%8B;%3E+Backend+Developer+in+Progress;%3E+Cybersecurity+Enthusiast;%3E+Game+Development+%7C+Python+%7C+Java+%7C+C%23;%3E+Welcome+to+my+digital+space." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=850&color=FF1744&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+BOOTING...+%5D;%3E+WELCOME%2C+I'M+KAIO.;%3E+DEVELOPER+IN+PROGRESS.;%3E+CYBERSECURITY+%7C+BACKEND+%7C+GAME+DEV;%3E+PYTHON+%7C+JAVA+%7C+C%23;%3E+FROM+CEAR%C3%81%2C+BRAZIL.;%3E+SYSTEM+ONLINE." alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-ff1744?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-ff1744?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/BUILDING-BACKEND-ff1744?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/LEARNING-GAMEDEV-ff1744?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-ff1744?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/LOCATION-CEARÁ%2C%20BRAZIL-ff1744?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-ff1744?style=for-the-badge&labelColor=080808"/>
 
 </div>
 
 ---
 
-# 🕷️ `KAIO.exe`
+<div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    K A I O   //   SYSTEM                     ║
-╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  STATUS       : ONLINE                                       ║
-║  ROLE         : DEVELOPER IN PROGRESS                        ║
-║  SPECIALITY   : BACKEND / CYBERSECURITY / GAME DEV           ║
+║                 K A I O   //   2 0 0 0                      ║
 ║                                                              ║
-║  LANGUAGES    : Python / Java / C#                           ║
-║  ENVIRONMENT  : Linux                                        ║
-║  EDITOR       : VS Code                                      ║
+║       CYBER  •  CODE  •  STREET  •  DIGITAL                  ║
 ║                                                              ║
-║  CURRENT MODE : LEARNING                                     ║
+║              "CREATE YOUR OWN PATH."                         ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+# 🕷️ `KAIO.exe`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                      USER PROFILE                            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  NAME          : Kaio                                         │
+│  LOCATION      : Ceará, Brazil                               │
+│  STATUS        : Student / Developer                         │
+│                                                              │
+│  MAIN LANGUAGES: Python / Java / C#                           │
+│  ENVIRONMENT   : Linux                                       │
+│  EDITOR        : VS Code                                     │
+│                                                              │
+│  INTERESTS     : Cybersecurity                               │
+│                  Backend Development                         │
+│                  Game Development                            │
+│                                                              │
+│  CURRENT MODE  : LEARNING                                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `01` — ABOUT ME
+
+### `WHO AM I?`
+
+Hey! 👋 I'm **Kaio**, a student and developer in progress from **Ceará, Brazil 🇧🇷**.
+
+I'm currently building my foundations in **Python, Java and C#**, while exploring the areas that interest me the most:
+
+```text
+🔴 CYBERSECURITY
+   Security • Systems • Networks • Linux • Ethical Hacking
+
+⚫ BACKEND DEVELOPMENT
+   Logic • APIs • Servers • Databases • Architecture
+
+🔴 GAME DEVELOPMENT
+   C# • Game Logic • Mechanics • Systems • Programming
+```
+
+I'm still at the beginning of my journey, so right now my priority is simple:
+
+> **Learn the fundamentals. Build strong skills. Create something real.**
+
+---
+
+# `02` — MY STACK
+
+<div align="center">
+
+### `PROGRAMMING`
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="65" alt="Python"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" height="65" alt="Java"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/languages/csharp">
+<img src="https://skillicons.dev/icons?i=cs" height="65" alt="C#"/>
+</a>
+
+<br><br>
+
+### `ENVIRONMENT`
+
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" height="65" alt="Linux"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="65" alt="VS Code"/>
+</a>
+
+</div>
+
+---
+
+# `03` — AREAS OF INTEREST
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## 🔴 `CYBERSECURITY`
+
+```text
+SECURITY
+NETWORKS
+LINUX
+SYSTEMS
+ETHICAL HACKING
+```
+
+</td>
+
+<td width="33%" align="center">
+
+## 🕷️ `BACKEND`
+
+```text
+APIs
+SERVERS
+DATABASES
+LOGIC
+ARCHITECTURE
+```
+
+</td>
+
+<td width="33%" align="center">
+
+## 🎮 `GAME DEV`
+
+```text
+C#
+GAME LOGIC
+MECHANICS
+SYSTEMS
+CREATION
+```
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `04` — CURRENT ENVIRONMENT
+
+```console
+kaio@linux:~$ neofetch
+
+        ██╗  ██╗ █████╗ ██╗ ██████╗
+        ██║ ██╔╝██╔══██╗██║██╔═══██╗
+        █████╔╝ ███████║██║██║   ██║
+        ██╔═██╗ ██╔══██║██║██║   ██║
+        ██║  ██╗██║  ██║██║╚██████╔╝
+        ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝
+
+OS          → Linux
+EDITOR      → VS Code
+
+LANGUAGES   → Python
+              Java
+              C#
+
+INTERESTS   → Cybersecurity
+              Backend Development
+              Game Development
+
+LOCATION    → Ceará, Brazil
+
+STATUS      → LEARNING...
+```
+
+---
+
+# `05` — CURRENT MISSION
+
+```console
+kaio@linux:~$ ./mission.exe
+
+[ SYSTEM ] Initializing mission...
+
+01  →  MASTER THE FUNDAMENTALS
+02  →  BUILD PROGRAMMING LOGIC
+03  →  LEARN BACKEND DEVELOPMENT
+04  →  EXPLORE CYBERSECURITY
+05  →  UNDERSTAND LINUX
+06  →  LEARN GAME DEVELOPMENT
+07  →  BUILD MY FIRST REAL PROJECTS
+
+[ SYSTEM ] Mission status: IN PROGRESS
+
+kaio@linux:~$ echo "KEEP MOVING."
+
+KEEP MOVING.
+```
+
+---
+
+# `06` — LEARNING ROADMAP
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                     CURRENT ROADMAP                         │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  [01] ███████████████░░░  Programming Fundamentals         │
+│                                                            │
+│  [02] █████████████░░░░░  Python                           │
+│                                                            │
+│  [03] ████████████░░░░░░  Java                            │
+│                                                            │
+│  [04] ███████████░░░░░░░  C#                              │
+│                                                            │
+│  [05] ██████████░░░░░░░░  Linux                           │
+│                                                            │
+│  [06] █████████░░░░░░░░░  Backend                         │
+│                                                            │
+│  [07] ████████░░░░░░░░░░  Cybersecurity                   │
+│                                                            │
+│  [08] ███████░░░░░░░░░░░  Game Development                │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# `07` — NO PROJECTS. YET.
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║                     PROJECTS/                            ║
+║                                                          ║
+║                 [ EMPTY DIRECTORY ]                      ║
+║                                                          ║
+║            Nothing here... yet.                          ║
+║                                                          ║
+║       First I learn. Then I build.                       ║
+║                                                          ║
+║       > mkdir first-project                              ║
+║       > code .                                           ║
+║       > build                                            ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+### `THE EMPTY FOLDER WON'T STAY EMPTY. 🕷️`
+
+</div>
+
+---
+
+# `08` — DIGITAL IDENTITY
+
+<div align="center">
+
+```text
+███████╗██╗   ██╗███╗   ██╗
+██╔════╝██║   ██║████╗  ██║
+███████╗██║   ██║██╔██╗ ██║
+╚════██║██║   ██║██║╚██╗██║
+███████║╚██████╔╝██║ ╚████║
+╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+
+        STREET × Y2K × CYBER
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/PYTHON-080808?style=for-the-badge&logo=python&logoColor=ff1744"/>
+<img src="https://img.shields.io/badge/JAVA-080808?style=for-the-badge&logo=openjdk&logoColor=ff1744"/>
+<img src="https://img.shields.io/badge/C%23-080808?style=for-the-badge&logo=csharp&logoColor=ff1744"/>
+<img src="https://img.shields.io/badge/LINUX-080808?style=for-the-badge&logo=linux&logoColor=ff1744"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-080808?style=for-the-badge&logoColor=ff1744"/>
+<img src="https://img.shields.io/badge/BACKEND-080808?style=for-the-badge&logoColor=ff1744"/>
+<img src="https://img.shields.io/badge/GAME%20DEV-080808?style=for-the-badge&logoColor=ff1744"/>
+
+</div>
+
+---
+
+# `09` — CONNECT
+
+<div align="center">
+
+<a href="https://github.com/kaioStar7">
+<img src="https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1744,35:8b0000,70:160000,100:050505&height=150&section=footer" width="100%"/>
+
+### 🕷️ `KAIO`
+
+`CEARÁ, BRAZIL` • `CODE` • `CYBER` • `BACKEND` • `GAMES`
+
+<br>
+
+**`LEARN. BUILD. BREAK. REPEAT.`**
+
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-ff1744?style=flat-square&labelColor=080808"/>
+<img src="https://img.shields.io/badge/Y2K-MODE-ff1744?style=flat-square&labelColor=080808"/>
+<img src="https://img.shields.io/badge/STREET-MODE-ff1744?style=flat-square&labelColor=080808"/>
+
+<br><br>
+
+`© 2026 KAIO // SYSTEM ONLINE`
+
+</div>
 ```
 
 <div align="center">
