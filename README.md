@@ -1,44 +1,348 @@
-# 🖥️ `kaioStar7` — SYSTEM ONLINE
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:151515,100:00ff9d&height=180&section=header&text=KAIO%20STAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CODE%20%2F%20CREATE%20%2F%20REPEAT&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,45:180000,100:d90429&height=220&section=header&text=KAIO&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%2F%20SECURITY%20%2F%20BACKEND%20%2F%20GAMES&descAlignY=62&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+BOOTING...+%5D;%3E+Hello%2C+I'm+Kaio+%F0%9F%91%8B;%3E+Student+%7C+Developer+%7C+Tech+Enthusiast;%3E+Building+things+one+line+at+a+time;%3E+Welcome+to+my+digital+workspace." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=FF1744&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+BOOTING...+%5D;%3E+Hello%2C+I'm+Kaio+%F0%9F%91%8B;%3E+Backend+Developer+in+Progress;%3E+Cybersecurity+Enthusiast;%3E+Game+Development+%7C+Python+%7C+Java+%7C+C%23;%3E+Welcome+to+my+digital+space." alt="Typing Animation"/>
 
 <br><br>
 
-<a href="https://github.com/kaioStar7">
-<img src="https://img.shields.io/github/followers/kaioStar7?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=111111" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-ff1744?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-ff1744?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/BUILDING-BACKEND-ff1744?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/LEARNING-GAMEDEV-ff1744?style=for-the-badge&labelColor=0d0d0d" />
+
+</div>
+
+---
+
+# 🕷️ `KAIO.exe`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    K A I O   //   SYSTEM                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  STATUS       : ONLINE                                       ║
+║  ROLE         : DEVELOPER IN PROGRESS                        ║
+║  SPECIALITY   : BACKEND / CYBERSECURITY / GAME DEV           ║
+║                                                              ║
+║  LANGUAGES    : Python / Java / C#                           ║
+║  ENVIRONMENT  : Linux                                        ║
+║  EDITOR       : VS Code                                      ║
+║                                                              ║
+║  CURRENT MODE : LEARNING                                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+> **"Every expert was once a beginner who refused to stop learning."**
+
+</div>
+
+---
+
+## `01` — SOBRE MIM 🕷️
+
+Olá! Eu sou o **Kaio**.
+
+Sou estudante e estou começando minha jornada no desenvolvimento de software, explorando principalmente **Python, Java e C#**.
+
+Atualmente estou direcionando meus estudos para três áreas que me interessam bastante:
+
+**🔐 Cybersecurity**
+Entender segurança, sistemas, redes, vulnerabilidades e como proteger aplicações.
+
+**⚙️ Backend Development**
+Criar sistemas, APIs, aplicações e toda a lógica que acontece por trás das interfaces.
+
+**🎮 Game Development**
+Aprender como jogos são construídos, desde programação e lógica até sistemas e mecânicas.
+
+No momento, meu foco principal é **aprender os fundamentos e construir uma base sólida antes de começar projetos maiores**.
+
+---
+
+## `02` — CURRENT STACK
+
+<div align="center">
+
+### `PROGRAMMING LANGUAGES`
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="65" />
 </a>
-<a href="https://github.com/kaioStar7?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-00ff9d?style=for-the-badge&logo=github&logoColor=black" />
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" height="65" />
 </a>
-<a href="https://github.com/kaioStar7">
-<img src="https://komarev.com/ghpvc/?username=kaioStar7&style=for-the-badge&color=111111&label=PROFILE+VIEWS" />
+
+<a href="https://dotnet.microsoft.com/languages/csharp">
+<img src="https://skillicons.dev/icons?i=cs" height="65" />
+</a>
+
+<br><br>
+
+### `ENVIRONMENT`
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="65" />
+</a>
+
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" height="65" />
 </a>
 
 </div>
 
 ---
 
-## `01` — ABOUT ME
+## `03` — AREAS OF INTEREST
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🔐 CYBERSECURITY
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    USER PROFILE :: KAIO                      │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  > status       : ONLINE                                     │
-│  > role         : Student / Developer                        │
-│  > environment  : Linux / Open Source                        │
-│  > mindset      : BUILD > BREAK > LEARN > REPEAT             │
-│  > aesthetic    : Y2K / STREET / DIGITAL                     │
-│  > mission      : Turn ideas into working software.          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+SECURITY
+NETWORKS
+SYSTEMS
+LINUX
+VULNERABILITIES
+```
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ BACKEND
+
+```text
+LOGIC
+APIs
+DATABASES
+SERVERS
+ARCHITECTURE
+```
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎮 GAME DEV
+
+```text
+GAME LOGIC
+SYSTEMS
+MECHANICS
+C#
+PROGRAMMING
+```
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `04` — DEVELOPMENT ENVIRONMENT
+
+```console
+kaio@linux:~$ neofetch
+
+        ██████╗  █████╗ ██╗ ██████╗
+       ██╔════╝ ██╔══██╗██║██╔═══██╗
+       ██║  ███╗███████║██║██║   ██║
+       ██║   ██║██╔══██║██║██║   ██║
+       ╚██████╔╝██║  ██║██║╚██████╔╝
+        ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝
+
+OS        → Linux
+EDITOR    → VS Code
+LANGUAGE  → Python
+LANGUAGE  → Java
+LANGUAGE  → C#
+
+FOCUS     → Cybersecurity
+FOCUS     → Backend
+FOCUS     → Game Development
+
+STATUS    → LEARNING...
+```
+
+---
+
+## `05` — CURRENT OBJECTIVES
+
+```console
+kaio@linux:~$ ./goals.sh
+
+[ SYSTEM ] Loading objectives...
+
+[01] ███████████████░░░  Python fundamentals
+[02] ████████████░░░░░░  Java fundamentals
+[03] ███████████░░░░░░░  C# fundamentals
+
+[04] ██████████░░░░░░░░  Backend development
+[05] █████████░░░░░░░░░  Cybersecurity
+[06] ████████░░░░░░░░░░  Game development
+
+[07] █████████████░░░░░  Linux
+[08] ███████████░░░░░░░  Programming logic
+
+[ SYSTEM ] Keep learning.
+[ SYSTEM ] Keep building.
+```
+
+---
+
+# `06` — GITHUB STATS
+
+<div align="center">
+
+<a href="https://github.com/kaioStar7">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaioStar7&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff1744&icon_color=ff1744&text_color=ffffff&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/kaioStar7">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioStar7&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ff1744&text_color=ffffff&langs_count=6" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/kaioStar7">
+<img src="https://streak-stats.demolab.com?user=kaioStar7&theme=dark&hide_border=true&background=0D0D0D&ring=FF1744&fire=FF1744&currStreakLabel=FF1744" width="80%" />
+</a>
+
+</div>
+
+---
+
+# `07` — ACTIVITY GRAPH
+
+<div align="center">
+
+<a href="https://github.com/kaioStar7">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaioStar7&bg_color=0d0d0d&color=ffffff&line=ff1744&point=ffffff&area=true&hide_border=true&custom_title=KAIO%20%2F%2F%20ACTIVITY%20GRAPH" width="100%" />
+
+</a>
+
+</div>
+
+---
+
+# `08` — GITHUB TROPHIES 🏆
+
+<div align="center">
+
+<a href="https://github.com/kaioStar7">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaioStar7&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
+
+</a>
+
+</div>
+
+---
+
+# `09` — CONTRIBUTION SNAKE 🐍
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kaioStar7/kaioStar7/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│     CONTRIBUTIONS ARE NOT JUST NUMBERS.                 │
+│     THEY ARE PROOF THAT YOU KEPT SHOWING UP.            │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `10` — NO PROJECTS. YET.
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║                 PROJECTS/                        ║
+║                                                  ║
+║        [ EMPTY DIRECTORY ]                       ║
+║                                                  ║
+║        No projects available yet.                ║
+║                                                  ║
+║        But this folder won't stay empty.         ║
+║                                                  ║
+║        > mkdir first-project                     ║
+║        > code .                                  ║
+║        > build                                   ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+**Currently building the skills before building the portfolio.**
+
+</div>
+
+---
+
+# `11` — SOCIAL / CONTACT
+
+<div align="center">
+
+<a href="https://github.com/kaioStar7">
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ffffff" />
+</a>
+
+</div>
+
+> **Substitua os links acima pelas suas redes quando quiser adicioná-las.**
+
+---
+
+# `12` — SYSTEM FOOTER
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1744,50:180000,100:0a0a0a&height=130&section=footer" width="100%"/>
+
+### 🕷️ `KAIO`
+
+`PYTHON` • `JAVA` • `C#` • `LINUX` • `CYBERSECURITY` • `BACKEND` • `GAME DEV`
+
+<br>
+
+<img src="https://img.shields.io/badge/KEEP-LEARNING-ff1744?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/KEEP-BUILDING-ff1744?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/KEEP-EXPLORING-ff1744?style=flat-square&labelColor=0d0d0d" />
+
+<
 ```
 
 > **Hey! I'm Kaio.** 👋
